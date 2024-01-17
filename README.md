@@ -47,3 +47,7 @@ MicMac permet également la reconstruction dense d’un objet en 3D à partir d�
 ![image](https://github.com/Calliope-commits/Reconstruction-d-une-scene-en-3D--/assets/61286710/bda9a343-84e1-487c-a11f-882ef3ccb41d)
 
 Pour cette représentation dense (figure 9, 10, 11 et 12), nous affichons 285033 sommets.
+
+
+### Auteurs : 
+Signate Aïssatou , Hichem Boussaid 
