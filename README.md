@@ -28,7 +28,7 @@ Nous avons utilisé la sculpture d’un panier de fruits sur une table en bois. 
 
 
 ## Reconstruction éparse 
-
+Dans notre dossier, ce fichier est intitulé Panier_Sfm.ply.
 Sur les figures 6 7 et 8 nous avons 323479 sommets
 
 
@@ -37,3 +37,13 @@ Sur les figures 6 7 et 8 nous avons 323479 sommets
 ![image](https://github.com/Calliope-commits/Reconstruction-d-une-scene-en-3D--/assets/61286710/63b279d0-dee6-40d5-aa37-00a8c5ea5d66)
 
 
+## Reconstruction dense 
+
+MicMac permet également la reconstruction dense d’un objet en 3D à partir d’un nuage de point éparse : c’est l’outil C3DC, Culture 3D Cloud. Il permet la création d’un nuage de point , toujours au format .ply par corrélation multi stéréoscopique dense. Dans notre dossier ce fichier est intitulé Panier_Mvs.ply. Nous pouvons également varier la taille du point pour obtenir une différente représentation.
+
+
+![image](https://github.com/Calliope-commits/Reconstruction-d-une-scene-en-3D--/assets/61286710/c2c8b7af-bc80-4f08-ba05-72c29534583e)
+
+![image](https://github.com/Calliope-commits/Reconstruction-d-une-scene-en-3D--/assets/61286710/bda9a343-84e1-487c-a11f-882ef3ccb41d)
+
+Pour cette représentation dense (figure 9, 10, 11 et 12), nous affichons 285033 sommets.
