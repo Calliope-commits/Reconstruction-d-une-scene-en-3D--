@@ -26,3 +26,14 @@ Nous avons utilisé la sculpture d’un panier de fruits sur une table en bois. 
 
 ![image](https://github.com/Calliope-commits/Reconstruction-d-une-scene-en-3D--/assets/61286710/988ec6fb-00f1-49aa-9702-c08678b03b77)
 
+
+## Reconstruction éparse 
+
+Sur les figures 6 7 et 8 nous avons 323479 sommets
+
+
+![image](https://github.com/Calliope-commits/Reconstruction-d-une-scene-en-3D--/assets/61286710/026781f0-b2bf-4e9e-8415-21d38c79b3f6)
+
+![image](https://github.com/Calliope-commits/Reconstruction-d-une-scene-en-3D--/assets/61286710/63b279d0-dee6-40d5-aa37-00a8c5ea5d66)
+
+
