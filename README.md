@@ -13,7 +13,6 @@ Les étapes de réalisation de notre projets sont:
 ● Prendre une série d’image de l’objet : 74 images pour notre projet 
 
 ● Utiliser un logiciel de notre choix pour réaliser deux types de reconstruction :
-
     ○ Structure from motion: donne une représentation éparse de l’objet (Sfm) 
     ○ Multiview surface: donne une représentation dense de l'objet (Mvs) 
     ○ Nous avons utilisé le logiciel MicMac 
