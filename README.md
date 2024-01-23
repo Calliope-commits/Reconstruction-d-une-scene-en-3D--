@@ -1,6 +1,6 @@
 # Reconstruction-d-une-scene-en-3D--
 
-Unviersité Paris Cité - 2022 - Reconstruction 3D - Enseignant : Ewelina Rupnik
+Unviersité Paris Cité - Reconstruction 3D - Enseignant : Ewelina Rupnik
 
 ## Description
 
